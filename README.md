@@ -1,39 +1,44 @@
-# ZK PHOTOCOPIE — Site vitrine
+# ZK PHOTOCOPIE - Système de Gestion Informatisé
 
-Version A : site public statique basé sur le cahier des charges de ZK PHOTOCOPIE.
+Centre de photocopie moderne à Bukavu. Gestion des services, commandes en ligne et suivi client.
 
-## Fichiers
+## 🌟 À propos
+ZK PHOTOCOPIE est un site web pour gérer un centre de photocopie. 
+L’objectif : faciliter les commandes, afficher les tarifs et offrir un service rapide aux étudiants et professionnels de Bukavu.
 
-- index.html
-- style.css
-- assets/images/ (pour les futures images)
+## ✅ Services Proposés
+- **Photocopie** Noir & Blanc / Couleur
+- **Impression** Documents, Cours, CV
+- **Scan** et envoi par WhatsApp/Email
+- **Reliure** Spirale et Thermique
+- **Saisie** et Mise en page de documents
+- **Commande en ligne** pour éviter l'attente
 
-## Technologies
+## 💻 Fonctionnalités du Site
+1.  Page d'accueil avec présentation des services
+2.  Liste des tarifs transparents
+3.  Formulaire de commande en ligne
+4.  Contact direct via WhatsApp
+5.  Design responsive : marche sur téléphone et PC
 
-- HTML5
-- CSS3
-- Bootstrap 5.3.8 via CDN
-- Bootstrap Icons 1.13.1 via CDN
+## 🛠️ Technologies Utilisées
+- `HTML5`
+- `CSS3`
+- Hébergement : GitHub Pages
 
-## Fonctionnement
+## 📍 Nous Trouver
+**Nom** : Zéphirin K ZED  
+**Entreprise** : ZK PHOTOCOPIE  
+**Adresse** : Bukavu, Sud-Kivu, République Démocratique du Congo  
+**Email** : zephirinkamwangazk@gmail.com  
+**WhatsApp** : [+243 979 562 926](https://wa.me/243979562926)
 
-Cette version est volontairement un site vitrine. Elle ne contient pas de PHP, MySQL,
-authentification ou gestion réelle des clients, services, commandes et paiements.
+## ⏰ Horaires
+Lundi - Samedi : 7h30 - 18h00  
+Dimanche : Sur rendez-vous
 
-Le formulaire de contact est une démonstration front-end. Il ne transmet pas encore
-les données à un serveur.
+## 🤝 Contribution
+Ce projet est privé. Pour toute collaboration, contactez-nous via WhatsApp ou Email.
 
-## Personnalisation à faire
-
-Remplacer dans index.html les coordonnées provisoires :
-- +243 XXX XXX XXX
-- contact@zkphotocopie.com
-- Votre adresse ici
-- horaires si nécessaire
-
-Les images peuvent être ajoutées dans assets/images/.
-
-## Lancement
-
-Ouvrir index.html dans un navigateur avec Internet actif pour charger Bootstrap,
-Bootstrap Icons et la police Google Fonts.
+---
+© 2026 ZK PHOTOCOPIE. Tous droits réservés. Fait avec ❤️ à Bukavu.
